@@ -26,7 +26,7 @@ Es necesario contar con lo siguiente para poder ejecutar y/o compilar la página
 Clonar este repositorio con ayuda del comando:
 
 ```c
-  git clone https://github.com/NightMare070/keylogger_linux
+  git clone https://github.com/NightMare070/LinkedIn_Phishing.git
 ```
 Una vez clonado en el archivo **con_db.php** configurar el archivo con los datos de tu BD
 
