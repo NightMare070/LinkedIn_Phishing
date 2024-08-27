@@ -31,7 +31,7 @@ Clonar este repositorio con ayuda del comando:
 Una vez clonado en el archivo **con_db.php** configurar el archivo con los datos de tu BD
 
 ```c
-  $conex = mysqli_connect("localhost", "root", "D3dS3c<3", "phishing");
+  $conex = mysqli_connect("localhost", "root", "BD_password", "phishing");
 ```
 
 Ya configurado mover la carpeta del proyecto a la carpeta **htdocs** de **Apache** para lanzar el sitio web. 
